@@ -2,8 +2,5 @@
 
 Добавили первый текст
 
-<<<<<<< HEAD
-Добавили текст через браузер. Add english text local.
-=======
 Добавили текст через браузер. Add english text in browser.
 >>>>>>> 617ba6f529587ae86f4027b80c10a90ad3a29be9
